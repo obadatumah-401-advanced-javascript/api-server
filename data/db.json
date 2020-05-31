@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "name": "food",
+      "display-name": "FOOD",
+      "description": "life as should to be",
+      "_id":1
+    },
+    {
+        "name": "animals",
+        "display-name": "ANIMAL",
+        "description": "some animals",
+        "_id":2
+      }
+  ],
+  "products": [
+    {
+      "category": "food",
+      "name": "pizza",
+      "display-name": "PIZZA",
+      "description": "meaning of life part two",
+      "_id":1
+    },
+    {
+        "category": "animals",
+        "name": "cat",
+        "display-name": "CAT",
+        "description": "some strange animal",
+        "_id":2
+      }
+  ]
+}
