@@ -1,0 +1,7 @@
+'use strict';
+const time = require('./timestamp'); 
+
+module.exports = (req, res, next) => {
+    console.log('__REQUEST__', req.method, req.path , req.requestTime);
+    next();
+}
