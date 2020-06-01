@@ -2,4 +2,6 @@
 
 ## swaggerhub link 
 
-[swagger](https://app.swaggerhub.com/apis/Tumaho/my-api-class06/0.1)
+[swagger](https://app.swaggerhub.com/apis/Tumaho/class07/0.1)
+
+![DIAGRAM](assets/class07.png)
